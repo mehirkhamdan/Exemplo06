@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercicio06</string>
+    <string name="act_adicionar">ADICIONAR</string>
+    <string name="act_editar">EDITAR</string>
+    <string name="act_remover">REMOVER</string>
+    <string name="act_ajuda">AJUDA</string>
+    <string name="adicionar">Adicionar Exercicio</string>
+    <string name="editar">Editar Exercicio</string>
+    <string name="remover">Remover Exercicio</string>
+    <string name="ajuda">\"Ajuda \"</string>
+
+
+</resources>

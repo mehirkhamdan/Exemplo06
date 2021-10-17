@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Execise06</string>
+    <string name="act_adicionar">ADD</string>
+    <string name="act_editar">EDIT</string>
+    <string name="act_remover">DELETE</string>
+    <string name="act_ajuda">HELP</string>
+    <string name="adicionar">Add Exercise</string>
+    <string name="editar">Edit Exercise</string>
+    <string name="remover">Delete Exercise</string>
+    <string name="ajuda">Help</string>
+</resources>
